@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>  Nice to see you. I'm Derek  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/></h1>
 <h3 align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> --An undergraduate CS major student from Taiwan--  
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514255/2240/programmer.gif?1643514255" width="30"/> An undergraduate CS major student from Taiwan 
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514255/2240/programmer.gif?1643514255" width="30"/>
 </h3>
 ###
 
