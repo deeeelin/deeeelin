@@ -78,8 +78,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/deeeelin/deeeelin/output/snake.svg" alt="Snake animation" />
-
-###
