@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Hey there! Nice to see you. Iam Derek</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>Nice to see you. I'm Derek</h1>
 <h3 align="center">An undergraduate student from Taiwan</h3>
 
 ###
