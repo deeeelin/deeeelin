@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 !  My name is Derek</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Hey! Nice to see you.</h1>
 
 ###
 
