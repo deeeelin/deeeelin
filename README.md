@@ -2,7 +2,7 @@
 <h3 align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>  
     An undergraduate CS major student from Taiwan  
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" style="margin-left: 10px;"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>
 </h3>
 ###
 
