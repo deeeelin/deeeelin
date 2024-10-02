@@ -77,7 +77,7 @@
   <a href="https://discord.gg/n28aFDHZ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://medium.com/@dereklin100503/let-vim-editor-with-external-colorschemes-fill-terminal-window-in-mac-9a230490d8ec" target="_blank">
+  <a href="https://medium.com/@dereklin100503" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
